@@ -1,0 +1,12 @@
+git init
+git add ogo
+git commit -m "commitik"
+git branch -M axax
+git remote add udalenka https://github.com/Antoshkaaxaxax/Etoya.git
+git push -u udalenka axax
+git init
+git add opisashka
+git commit -m "commitik1"
+git branch -M opisashka
+git remote add udalenka https://github.com/Antoshkaaxaxax/Etoya.git
+git push -u udalenka opisashka
